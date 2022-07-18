@@ -58,7 +58,7 @@ const NavBar = () => {
           </Text>
         </Link>
         <Link
-          href="https://drive.google.com/file/d/1TjswbqgkuirwSooVYX3SJ9jGPSOT0kNK/view?usp=sharing"
+          href="https://bit.ly/3cgdxlL"
           isExternal
           _hover={{ textDecoration: "none" }}
         >

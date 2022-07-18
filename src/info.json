@@ -1,0 +1,77 @@
+{
+  "jobs": [
+    {
+      "id": 2,
+      "name": "Fittnet",
+      "shortDescription": "Gestios de Usuarios y Gimnasios - Proyecto Final Académico (Soy Henry)",
+      "description": "Brindar soporte e información a usuarios y dueños de gimnasios sobre la administración de planes, gestión de personal, seguimiento de entrenamiento, gimnasios y entrenadores disponibles, como así también la gestión de nuevos usuarios y pagos de mensualidades.",
+      "frontEndTech": ["React", "Redux", "Material UI", "Formik", "Sweetalert"],
+      "backEndTech": ["NodeJs", "Express", "Nodemailer", "Multer"],
+      "dbAndORM": ["Mongodb"],
+      "otherTechs": [
+        "JWT",
+        "Stripe",
+        "Google Authentication",
+        "Multer",
+        "Git",
+        "Github",
+        "Nodemailer"
+      ],
+      "technologiesIcons": [
+        "Javascript",
+        "CssThree",
+        "Html5",
+        "ReactJs",
+        "Redux",
+        "Nodedotjs",
+        "Express",
+        "Mongodb",
+        "Git",
+        "Github"
+      ],
+      "linkToPage": "https://fittnet-g11.vercel.app",
+      "linkToRepo": "https://github.com/Esteban5957L/PF-FittNet-G11-v1.2",
+      "linkToDemo": "",
+      "cardImg": "https://i.ibb.co/8KcD0rr/portada.png",
+      "imgsGalery": [
+        "https://i.ibb.co/8KcD0rr/portada.png",
+        "https://i.ibb.co/fCtnYn7/img1.png",
+        "https://i.ibb.co/x5cgSnJ/img2.png",
+        "https://i.ibb.co/ZdHsspg/img3.png",
+        "https://i.ibb.co/CWF7TsN/img4.png",
+        "https://i.ibb.co/0t7CDDd/img5.png"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Recipes App",
+      "shortDescription": "SPA - Proyecto Individual Académico (SoyHenry)",
+      "description": "Single Page Aplication que permite ver recetas traidas de una api, ordenarlas, filtrarlas y crear nuevas que se almacenarán en nuestra base de datos.",
+      "frontEndTech": ["React", "Redux", "CSS"],
+      "backEndTech": ["NodeJs", "Express"],
+      "dbAndORM": ["PostgreSQL", "Sequelize"],
+      "otherTechs": [],
+      "technologiesIcons": [
+        "Javascript",
+        "Html5",
+        "CssThree",
+        "ReactJs",
+        "Redux",
+        "Nodedotjs",
+        "Express",
+        "Postgresql",
+        "Sequelize"
+      ],
+      "linkToPage": "https://henry-food-v2.vercel.app",
+      "linkToRepo": "https://github.com/Esteban5957L/Henry-FOOD-V2",
+      "linkToDemo": "",
+      "cardImg": "https://i.ibb.co/gDCVJfQ/PI-Portada.png",
+      "imgsGalery": [
+        "https://i.ibb.co/tPMT4cX/PI-img2.png",
+        "https://i.ibb.co/SPDkYnw/PI-img3.png",
+        "https://i.ibb.co/gDCVJfQ/PI-Portada.png",
+        "https://i.ibb.co/rF5cS9X/PI-img1.png"
+      ]
+    }
+  ]
+}

@@ -19,7 +19,7 @@ const NavBar = () => {
         w="100vw"
       >
         <Link href="#" _hover={{ textDecoration: "none" }}>
-          <img src={ico} alt="" style={{ width: "55px" }} />
+          <img src={ico} alt="" style={{ width: "30px" }} />
         </Link>
         <Link href="#SobreMi" _hover={{ textDecoration: "none" }}>
           <Text

@@ -46,7 +46,7 @@ const SkillCards = () => {
       <SkillCard Icon={Python} text={"Python"} />
       <SkillCard Icon={Cplusplus} text={"C++"} />
       <SkillCard Icon={Git} text={"Git"} />
-      <SkillCard Icon={Github} text={"Github"} />
+      
       <SkillCard Icon={DotNet} text={".NET"} />
     </Box>
   );

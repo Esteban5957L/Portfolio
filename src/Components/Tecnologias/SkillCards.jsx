@@ -18,7 +18,7 @@ import {
   Mongodb,
   Cplusplus,
   Typescript,
-  DotNet,
+  DotNet
 } from "@icons-pack/react-simple-icons";
 
 const SkillCards = () => {

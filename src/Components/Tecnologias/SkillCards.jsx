@@ -18,6 +18,7 @@ import {
   Mongodb,
   Cplusplus,
   Typescript,
+  DotNet,
 } from "@icons-pack/react-simple-icons";
 
 const SkillCards = () => {
@@ -46,6 +47,7 @@ const SkillCards = () => {
       <SkillCard Icon={Cplusplus} text={"C++"} />
       <SkillCard Icon={Git} text={"Git"} />
       <SkillCard Icon={Github} text={"Github"} />
+      <SkillCard Icon={DotNet} text={".NET"} />
     </Box>
   );
 };

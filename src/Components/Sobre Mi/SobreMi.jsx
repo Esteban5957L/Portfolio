@@ -16,7 +16,7 @@ const SobreMi = () => {
         </Heading>
         <Text p={[5, 10]} color="textColor" fontSize={["", "2xl"]}>
           Estudiante de ingeniería en sistemas de información en la UTN (Arg).
-          Cuento con experiencia trabajando en equipo y diriguiendolos como
+          Cuento con experiencia trabajando en equipo y como
           lider y/o colaborador.
           <br />
           <br />
